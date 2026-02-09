@@ -1,4 +1,4 @@
-> NOTE: This repo contains working example for Opentelemetry and workflows for **CICD Observability**. Please note these are not supported officially by Dynatrace.
+> NOTE: This repo contains working example for Opentelemetry and workflows for **CICD Observability** in Dynatrace. Please note these are not supported officially by Dynatrace or anyone.
 
 
 # CI/CD Observability with Dynatrace
