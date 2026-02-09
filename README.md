@@ -1,7 +1,7 @@
-> NOTE: This repo contains working example for Opentelemetry and workflows for **CICD Observability** in Dynatrace. Please note these are not supported officially by Dynatrace or anyone.
+> NOTE: This repo contains working example for Opentelemetry and workflows for **Pipeline Observability** in Dynatrace. Please note these are not supported officially by Dynatrace or anyone.
 
 
-# CI/CD Observability with Dynatrace
+# Pipeline Observability with Dynatrace
 This repository provides reference implementations that demonstrate how to achieve CI/CD observability with Dynatrace across four major CI/CD platforms:
 
 1. GitHub Actions
@@ -9,7 +9,7 @@ This repository provides reference implementations that demonstrate how to achie
 3. Azure DevOps Pipelines
 4. Jenkins
 
-The repository contains both primary approaches for enabling CI/CD observability:
+The repository contains both primary approaches for enabling Pipeline observability:
 
 
 **Workflow Observability**  
