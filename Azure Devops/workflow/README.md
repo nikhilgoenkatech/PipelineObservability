@@ -121,7 +121,7 @@ Stage / Task event example:
 
 - Increase/decrease lookback window or schedule frequency to match your needs.
 - Add more metadata to events (branch, commit id, pipeline definition id, buildQueueTime) by reading other build or timeline fields.
-- Correlate pipeline BizEvents with traces or metrics from instrumented CI/CD runners or agents by tagging events with trace IDs or CI runner hostnames.
+- Correlate pipeline BizEvents with traces or metrics from instrumented runners or agents by tagging events with trace IDs or CI runner hostnames.
 
 ---
 

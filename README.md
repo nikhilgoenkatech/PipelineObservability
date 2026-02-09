@@ -2,7 +2,7 @@
 
 
 # Pipeline Observability with Dynatrace
-This repository provides reference implementations that demonstrate how to achieve CI/CD observability with Dynatrace across four major CI/CD platforms:
+This repository provides reference implementations that demonstrate how to achieve Pipeline observability with Dynatrace across four major Pipeline platforms:
 
 1. GitHub Actions
 2. GitLab CI
@@ -21,7 +21,7 @@ Mapping delivery processes into traceable, structured workflow events.
 
 **OpenTelemetry‑based Instrumentation**  
 
-Emitting traces, logs, and metrics directly from the CI/CD system using OpenTelemetry components.
+Emitting traces, logs, and metrics directly from the CI/CD tools using OpenTelemetry components.
 Exporting telemetry to Dynatrace through OTLP.
 
 
